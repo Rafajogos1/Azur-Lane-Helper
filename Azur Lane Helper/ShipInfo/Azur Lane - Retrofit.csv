@@ -1,0 +1,93 @@
+ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,Faction
+005,DD,Cassin (R),Rare,1942,102,297,0,171,213,235,Light,47,205,66,184,7,0,0,Eagle Union
+006,DD,Downes (R),Rare,1942,102,297,0,171,213,235,Light,47,205,63,184,7,0,0,Eagle Union
+013,DD,Charles Ausburne (R),Super Rare,2329,133,360,0,237,218,205,Light,42,233,82,225,9,0,0,Eagle Union
+019,DD,Laffey (R),Super Rare,2194,162,346,0,180,223,250,Light,45,230,18,202,9,0,0,Eagle Union
+026,DD,Sims (R),Elite,2069,112,290,0,265,222,206,Light,45,200,45,211,8,0,0,Eagle Union
+027,DD,Hammann (R),Elite,2069,97,290,0,265,227,206,Light,45,200,47,211,8,0,0,Eagle Union
+033,CL,Helena (R),Super Rare,3928,184,0,0,413,193,106,Light,32,195,33,111,10,0,0,Eagle Union
+035,CL,Juneau (R),Elite,3838,131,209,0,501,186,112,Light,32,173,18,220,9,0,0,Eagle Union
+036,CL,San Diego (R),Ultra Rare,4082,184,170,0,568,213,112,Light,32,173,85,204,11,0,0,Eagle Union
+044,CA,Portland (R),Elite,5461,237,0,0,266,172,81,Medium,26,129,78,0,10,0,0,Eagle Union
+052,BB,Nevada (R),Rare,7380,393,0,0,246,154,26,Heavy,20,85,75,0,12,0,0,Eagle Union
+053,BB,Oklahoma (R),Rare,7361,393,0,0,251,154,26,Heavy,20,80,38,0,12,0,0,Eagle Union
+070,CVL,Long Island (R),Elite,5012,0,0,344,298,190,68,Medium,16,88,68,102,10,0,0,Eagle Union
+071,CVL,Bogue (R),Rare,4258,0,0,342,292,186,69,Medium,18,88,78,150,9,0,0,Eagle Union
+072,CVL,Langley (R),Rare,4806,0,0,267,286,130,83,Medium,15,83,32,97,9,0,0,Eagle Union
+074,CV,Saratoga (R),Super Rare,7282,0,0,447,360,132,58,Medium,33,95,66,0,12,0,0,Eagle Union
+075,CVL,Ranger (R),Rare,5132,0,0,304,288,137,76,Medium,29,92,71,109,9,0,0,Eagle Union
+081,DD,Amazon (R),Elite,1569,66,365,0,197,194,292,Light,47,210,72,219,8,0,0,Royal Navy
+082,DD,Acasta (R),Elite,1569,69,405,0,172,196,304,Light,45,194,43,176,8,0,0,Royal Navy
+083,DD,Ardent (R),Elite,1569,69,405,0,172,196,304,Light,45,194,35,176,8,0,0,Royal Navy
+088,DD,Comet (R),Rare,1558,69,389,0,168,198,305,Light,46,200,54,209,7,0,0,Royal Navy
+089,DD,Crescent (R),Rare,1524,109,354,0,168,193,300,Light,46,205,35,209,7,0,0,Royal Navy
+090,DD,Cygnet (R),Rare,1558,99,354,0,168,193,315,Light,46,200,72,213,7,0,0,Royal Navy
+091,DD,Foxhound (R),Rare,1571,107,355,0,168,194,309,Light,45,203,68,217,7,0,0,Royal Navy
+092,DD,Fortune (R),Elite,1601,108,362,0,172,197,309,Light,45,203,68,221,8,0,0,Royal Navy
+101,DD,Javelin (R),Super Rare,1784,92,434,0,164,210,310,Light,46,218,65,218,9,0,0,Royal Navy
+104,CL,Leander (R),Rare,3562,198,309,0,328,179,128,Light,32,149,44,127,8,0,0,Royal Navy
+105,CL,Achilles (R),Elite,3284,216,363,0,301,182,114,Light,32,152,54,130,9,0,0,Royal Navy
+106,CL,Ajax (R),Elite,3284,216,363,0,301,182,114,Light,32,152,74,130,9,0,0,Royal Navy
+119,CA,London (R),Super Rare,3924,236,226,0,302,167,84,Light,25,140,62,0,11,0,0,Royal Navy
+120,CA,Shropshire (R),Elite,3822,276,248,0,212,167,69,Light,25,120,75,0,10,0,0,Royal Navy
+122,CA,Suffolk (R),Elite,3834,276,248,0,212,167,67,Light,25,120,72,0,10,0,0,Royal Navy
+125,CA,York (R),Super Rare,4001,289,196,0,263,193,95,Medium,25,134,15,0,11,0,0,Royal Navy
+126,CA,Exeter (R),Super Rare,4031,269,196,0,263,193,75,Medium,25,154,49,0,11,0,0,Royal Navy
+131,BB,Warspite (R),Ultra Rare,8208,451,0,0,294,181,34,Heavy,24,103,90,99,15,0,0,Royal Navy
+140,CVL,Hermes (R),Rare,4467,0,0,304,303,195,69,Medium,25,83,41,105,9,0,0,Royal Navy
+142,CVL,Unicorn (R),Super Rare,5674,0,0,356,344,188,68,Medium,24,91,78,110,11,0,0,Royal Navy
+144,CV,Ark Royal (R),Super Rare,6461,0,0,440,364,134,55,Medium,31,109,87,0,12,0,0,Royal Navy
+155,DD,Ayanami (R),Super Rare,2007,76,576,0,149,231,271,Light,48,206,36,206,9,0,0,Sakura Empire
+164,DD,Yuudachi (R),Ultra Rare,2038,111,591,0,160,229,286,Light,40,215,32,203,10,0,0,Sakura Empire
+165,DD,Shigure (R),Super Rare,1971,86,596,0,153,215,266,Light,40,205,84,204,9,0,0,Sakura Empire
+167,DD,Kagerou (R),Elite,2096,76,558,0,153,224,248,Light,45,207,25,212,8,0,0,Sakura Empire
+168,DD,Shiranui (R),Rare,1953,74,568,0,148,199,268,Light,45,207,25,176,7,0,0,Sakura Empire
+171,DD,Hatsuharu (R),Elite,1981,60,524,0,178,199,268,Light,46,203,45,192,8,0,0,Sakura Empire
+174,DD,Hatsushimo (R),Elite,1981,60,524,0,178,199,268,Light,46,203,51,192,8,0,0,Sakura Empire
+175,DD,Ariake (R),Elite,1981,60,524,0,178,199,268,Light,46,203,34,192,8,0,0,Sakura Empire
+176,DD,Yuugure (R),Elite,1824,60,524,0,178,199,270,Light,47,203,32,192,8,0,0,Sakura Empire
+179,CL,Yuubari (R),Super Rare,2393,163,290,0,339,205,124,Light,35,163,53,85,8,0,0,Sakura Empire
+183,CL,Isuzu (R),Elite,3529,121,233,0,400,178,119,Light,36,164,33,135,9,0,0,Sakura Empire
+186,CL,Kinu (R),Super Rare,3193,160,358,0,325,188,124,Light,36,154,52,125,10,0,0,Sakura Empire
+187,CL,Abukuma (R),Rare,3199,162,347,0,284,180,132,Light,36,149,43,94,8,0,0,Sakura Empire
+188,CA,Mogami (R),Super Rare,4724,267,205,0,237,190,83,Medium,29,132,14,0,11,0,0,Sakura Empire
+190,CA,Furutaka (R),Rare,3798,248,238,0,179,171,78,Medium,31,114,34,0,9,0,0,Sakura Empire
+191,CA,Kako (R),Rare,3798,248,238,0,179,171,78,Medium,31,114,34,0,9,0,0,Sakura Empire
+208,BBV,Fusou (R),Elite,7431,394,0,205,309,136,32,Heavy,23,80,13,0,13,0,0,Sakura Empire
+209,BBV,Yamashiro (R),Elite,7832,394,0,205,309,136,32,Heavy,23,80,14,0,13,0,0,Sakura Empire
+210,BBV,Ise (R),Elite,7413,394,0,278,380,134,32,Heavy,23,89,60,0,13,0,0,Sakura Empire
+211,BBV,Hyuuga (R),Elite,7413,394,0,278,380,134,32,Heavy,23,89,60,0,13,0,0,Sakura Empire
+222,CVL,Shouhou (R),Elite,4625,0,0,343,288,185,72,Medium,28,80,24,85,10,0,0,Sakura Empire
+226,CV,Souryuu (R),Super Rare,5580,0,0,430,369,143,68,Medium,34,87,36,0,12,0,0,Sakura Empire
+227,CV,Hiryuu (R),Super Rare,5808,0,0,431,367,143,68,Medium,34,87,36,0,12,0,0,Sakura Empire
+233,DD,Z1 (R),Super Rare,2267,86,495,0,232,210,197,Light,41,194,40,210,9,0,0,Iron Blood
+236,DD,Z23 (R),Super Rare,2342,172,351,0,218,202,208,Light,42,197,65,224,9,0,0,Iron Blood
+239,CL,Karlsruhe (R),Rare,3690,175,321,0,356,182,126,Light,32,157,39,89,8,0,0,Iron Blood
+240,CL,Koln (R),Rare,3690,175,321,0,356,182,126,Light,32,157,62,107,8,0,0,Iron Blood
+241,CL,Leipzig (R),Elite,3816,170,329,0,394,193,121,Light,32,163,67,100,9,0,0,Iron Blood
+253,DDG,An Shan (R) (Van),Super Rare,2497,172,311,0,175,204,243,Light,45,212,81,203,9,0,0,Dragon Empery
+253,DDG,An Shan (R) (Main),Super Rare,??,172,311,0,175,204,??,Light,45,??,81,203,9,0,0,Dragon Empery
+255,DDG,Chang Chun (R) (Van),Super Rare,2497,172,311,0,175,202,243,Light,45,207,61,203,9,0,0,Dragon Empery
+255,DDG,Chang Chun (R) (Main),Super Rare,??,172,311,0,175,202,??,Light,45,??,61,203,9,0,0,Dragon Empery
+257,CL,Yat Sen (R),Super Rare,2168,177,0,0,389,190,108,Light,19,150,64,56,10,0,0,Dragon Empery
+258,CL,Ning Hai (R),Super Rare,2238,203,237,0,310,190,123,Light,23,156,51,77,10,0,0,Dragon Empery
+259,CL,Ping Hai (R),Super Rare,2205,203,237,0,278,190,120,Light,21,159,47,77,10,0,0,Dragon Empery
+263,DD,Bailey (R),Elite,2080,104,324,0,265,227,210,Light,47,207,70,195,8,0,0,Eagle Union
+269,DD,Kamikaze (R),Elite,1764,61,419,0,182,232,250,Light,47,216,86,206,7,0,0,Sakura Empire
+270,DD,Matsukaze (R),Elite,1764,60,419,0,173,225,246,Light,47,216,45,188,7,0,0,Sakura Empire
+271,DD,Mutsuki (R),Rare,1688,60,468,0,176,219,250,Light,47,200,35,184,7,0,0,Sakura Empire
+272,DD,Kisaragi (R),Rare,1688,60,468,0,176,219,250,Light,47,200,15,182,7,0,0,Sakura Empire
+301,DD,Nicholas (R),Super Rare,2332,133,360,0,237,210,206,Light,42,222,80,225,9,0,0,Eagle Union
+308,CL,Sendai (R),Elite,2839,172,395,0,282,193,128,Light,35,156,42,109,9,0,0,Sakura Empire
+309,CL,Jintsuu (R),Super Rare,2916,178,406,0,306,199,128,Light,35,156,38,101,10,0,0,Sakura Empire
+318,DD,Hamakaze (R),Elite,2193,76,578,0,153,204,266,Light,45,207,58,190,8,0,0,Sakura Empire
+319,DD,Tanikaze (R),Elite,2193,76,578,0,157,199,266,Light,45,207,52,168,8,0,0,Sakura Empire
+348,DD,Forbin (R),Elite,1470,90,445,0,171,196,258,Light,42,210,69,222,8,0,0,Iris Libre
+349,CL,Emile Bertin (R),Super Rare,3499,193,302,0,333,180,139,Light,34,180,67,146,10,0,0,Iris Libre
+351,DD,Le Mars (R),Elite,1470,90,445,0,186,196,258,Light,42,210,24,205,8,0,0,Vichya Dominion
+361,CL,Newcastle (R),Elite,4013,177,289,0,394,196,119,Light,32,169,78,86,9,0,0,Royal Navy
+372,CL,Curacoa (R),Elite,3290,176,0,0,202,185,109,Light,29,178,24,54,9,0,0,Royal Navy
+373,CL,Curlew (R),Elite,3094,170,0,0,227,193,109,Light,29,175,45,54,9,0,0,Royal Navy
+377,CVL,Independence (R),Super Rare,5120,0,0,334,344,205,85,Medium,31,91,78,110,11,0,0,Eagle Union
+424,DD,Kasumi (R),Super Rare,2213,76,592,0,160,219,281,Light,45,206,70,195,9,0,0,Sakura Empire
+434,CL,Pamiat Merkuria (R),Super Rare,3370,129,164,0,198,141,103,Medium,23,150,88,56,10,0,0,Northern Parliament

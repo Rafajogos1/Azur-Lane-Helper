@@ -1,0 +1,11 @@
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\bin\Debug\Azur Lane Helper.exe.config
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\bin\Debug\Azur Lane Helper.exe
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\bin\Debug\Azur Lane Helper.pdb
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur Lane Helper.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur Lane Helper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur_Lane_Helper.Properties.Resources.resources
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur Lane Helper.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur Lane Helper.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur Lane Helper.exe
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur Lane Helper.pdb
+C:\Users\Rafael\source\repos\Azur Lane Helper\Azur Lane Helper\obj\Debug\Azur_Lane_Helper.Form1.resources

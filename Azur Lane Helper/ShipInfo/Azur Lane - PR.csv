@@ -1,0 +1,28 @@
+ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,Faction
+P001,CL,Neptune,Priority,4742,175,359,0,371,166,100,Light,33,162,15,155,12,0,0,Royal Navy
+P002,BB,Monarch,Priority,8155,432,0,0,235,170,36,Heavy,28,68,15,0,16,0,0,Royal Navy
+P003,CA,Ibuki,Priority,4904,276,295,0,198,189,89,Medium,28,140,15,0,13,0,0,Sakura Empire
+P004,BB,Izumo,Priority,8812,437,0,0,242,148,38,Heavy,28,68,15,0,16,0,0,Sakura Empire
+P005,CA,Roon,Priority,6055,289,220,0,238,174,80,Medium,26,129,15,0,13,0,0,Iron Blood
+P006,CA,Saint Louis,Priority,5485,282,231,0,253,193,83,Medium,26,141,15,0,13,0,0,Iris Libre
+P007,CL,Seattle,Priority,5376,182,0,0,373,158,100,Light,33,161,15,157,12,0,0,Eagle Union
+P008,BB,Georgia,Priority,8486,445,0,0,418,166,31,Heavy,33,75,15,0,16,0,0,Eagle Union
+P009,DD,Kitakaze,Priority,2702,88,401,0,201,226,246,Light,44,225,15,202,11,0,0,Sakura Empire
+P010,CB,Azuma,Decisive,7717,314,0,0,231,172,51,Medium,27,129,25,0,16,0,0,Sakura Empire
+P011,BB,Friedrich der Große,Decisive,10122,458,0,0,246,159,28,Heavy,30,67,0,0,19,0,0,Iron Blood
+P012,BB,Gascogne,Priority,8047,439,0,0,247,170,37,Heavy,32,73,15,0,16,0,0,Vichya Dominion
+P013,CA,Cheshire,Priority,5260,288,212,0,418,158,78,Medium,27,133,15,0,13,0,0,Royal Navy
+P014,CA,Drake,Decisive,5800,295,250,0,295,141,77,Medium,26,149,0,0,15,0,0,Royal Navy
+P015,CL,Mainz,Priority,5382,171,197,0,361,185,78,Medium,25,131,15,122,12,0,0,Iron Blood
+P016,BC,Odin,Priority,7296,369,246,0,345,173,38,Heavy,30,63,15,0,16,0,0,Iron Blood
+P017,BB,Champagne,Priority,7058,464,0,0,247,183,37,Heavy,32,79,15,0,16,0,0,Iris Libre
+P018,CA,Anchorage,Priority,6399,257,219,0,232,166,82,Medium,26,152,0,0,13,0,0,Eagle Union
+P019,CV,Hakuryuu,Decisive,8549,0,0,462,330,128,59,Heavy,34,99,0,0,17,0,0,Sakura Empire
+P020,CB,Ägir,Decisive,8056,288,206,0,257,170,53,Heavy,26,134,0,0,16,0,0,Iron Blood
+P021,CV,August von Parseval,Priority,7402,0,0,439,334,121,49,Medium,31,111,0,0,14,0,0,Iron Blood
+P022,BB,Marco Polo,Priority,8621,441,0,0,264,158,41,Heavy,32,66,0,0,16,0,0,Sardegna Empire
+P023,CL,Plymouth,Decisive,5684,198,399,0,341,181,103,Light,31,183,0,155,14,0,0,Royal Navy
+P024,BC,Prinz Rupprecht,Priority,8674,379,305,0,326,151,40,Heavy,32,66,0,0,16,0,0,Iron Blood
+P025,CL,Harbin,Priority,3665,153,371,0,415,196,188,Light,33,171,0,149,12,0,0,Dragon Empery
+P026,CV,Chkalov,Priority,6426,0,0,445,328,121,49,Medium,32,107,0,0,14,0,0,Northern Parliament
+P027,CB,Brest,Decisive,7525,305,0,0,259,193,52,Medium,24,132,0,0,16,0,0,Iris Libre

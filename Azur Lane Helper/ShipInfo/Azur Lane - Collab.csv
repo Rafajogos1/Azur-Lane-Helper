@@ -1,0 +1,41 @@
+ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,Faction
+C001,CL,Neptune (Neptunia),Elite,3509,154,293,0,308,174,118,Light,31,162,73,123,10,0,0,Neptunia
+C002,CA,Noire,Elite,3916,240,202,0,181,167,68,Medium,27,131,83,0,11,0,0,Neptunia
+C003,DD,Blanc,Elite,1844,70,444,0,151,209,225,Light,45,212,71,202,9,0,0,Neptunia
+C004,CV,Vert,Elite,5652,0,0,382,294,112,49,Medium,28,91,93,0,12,0,0,Neptunia
+C005,CL,Purple Heart,Super Rare,3779,168,313,0,319,181,120,Light,31,162,87,130,11,0,0,Neptunia
+C006,CA,Black Heart,Super Rare,4155,253,221,0,197,171,70,Medium,27,131,83,0,12,0,0,Neptunia
+C007,DD,White Heart,Super Rare,1993,75,481,0,157,218,230,Light,45,212,73,208,10,0,0,Neptunia
+C008,CV,Green Heart,Super Rare,5917,0,0,400,305,116,56,Medium,28,91,95,0,13,0,0,Neptunia
+C041,DD,Kizuna Ai,Elite,1811,75,479,0,170,203,250,Light,42,202,66,225,9,0,0,Kizuna Ai
+C042,CA,Elegant Kizuna Ai,Super Rare,5141,259,0,0,229,177,56,Medium,28,138,66,0,12,0,0,Kizuna Ai
+C043,CV,Anniversary Kizuna Ai,Super Rare,6787,0,0,414,330,121,40,Medium,32,90,66,0,13,0,0,Kizuna Ai
+C044,BB,Super Gamer Kizuna Ai,Super Rare,7835,414,214,0,203,144,31,Heavy,26,58,66,0,15,0,0,Kizuna Ai
+C051,DD,Shirakami Fubuki,Super Rare,1875,77,489,204,181,219,246,Light,40,216,69,203,10,0,0,Hololive
+C052,CV,Tokino Sora,Super Rare,6775,0,0,424,344,124,50,Medium,28,105,46,0,13,0,0,Hololive
+C053,SS,Minato Aqua,Super Rare,1722,66,545,0,0,109,45,Light,40,182,64,0,7,268,2,Hololive
+C054,DD,Natsuiro Matsuri,Elite,1805,70,473,0,169,209,245,Light,40,212,87,209,9,0,0,Hololive
+C055,CA,Nakiri Ayame,Elite,4269,237,0,0,201,176,51,Light,26,112,65,0,11,0,0,Hololive
+C056,CVL,Murasaki Shion,Elite,5304,0,0,315,260,176,69,Medium,26,85,85,73,11,0,0,Hololive
+C057,CV,Ookami Mio,Elite,6527,0,0,379,294,118,49,Medium,26,105,53,0,12,0,0,Hololive
+C061,DD,Marie Rose,Super Rare,2091,92,514,0,181,225,248,Light,42,218,78,212,10,0,0,Venus
+C062,BB,Honoka,Super Rare,8095,408,0,0,219,146,18,Heavy,26,58,91,0,15,0,0,Venus
+C063,CA,Kasumi (DoA),Super Rare,4964,267,219,0,229,177,97,Medium,28,137,85,0,12,0,0,Venus
+C064,CL,Misaki,Super Rare,3971,170,0,0,333,197,109,Light,33,167,89,156,11,0,0,Venus
+C065,BB,Nagisa,Elite,7689,388,0,0,177,151,40,Heavy,30,67,87,0,14,0,0,Venus
+C066,CV,Nyotengu,Elite,6803,0,0,379,316,118,55,Medium,32,89,88,0,12,0,0,Venus
+C067,CL,Monica,Elite,3861,150,296,0,363,184,118,Light,32,164,88,88,10,0,0,Venus
+C071,CL,Haruka Amami,Super Rare,4114,165,365,0,366,195,113,Light,32,165,83,149,11,0,0,Idolmaster
+C072,CV,Chihaya Kisaragi,Super Rare,6923,0,0,434,322,146,55,Medium,31,90,72,0,13,0,0,Idolmaster
+C073,BB,Iori Minase,Super Rare,8000,426,0,0,384,151,36,Heavy,26,57,77,0,15,0,0,Idolmaster
+C074,CA,Azusa Miura,Super Rare,5361,243,0,0,215,177,67,Medium,26,134,91,0,12,0,0,Idolmaster
+C075,AE,Ritsuko Akizuki,Elite,4425,70,0,0,177,218,64,Medium,25,235,85,0,10,0,0,Idolmaster
+C076,SS,Ami Futami,Elite,1542,49,518,0,0,118,43,Light,23,207,74,0,6,248,2,Idolmaster
+C077,SS,Mami Futami,Elite,1542,49,518,0,0,118,43,Light,23,207,74,0,6,248,2,Idolmaster
+C081,CL,Rikka Takarada,Super Rare,4655,181,374,0,395,195,121,Light,35,163,55,165,11,0,0,SSSS
+C082,BB,Akane Shinjo,Super Rare,7820,434,0,0,360,157,36,Heavy,26,66,55,0,15,0,0,SSSS
+C083,CL,Hass,Elite,3653,142,290,0,348,181,120,Light,33,166,55,144,10,0,0,SSSS
+C084,CA,Namiko,Elite,4111,240,218,0,213,181,40,Medium,24,131,55,0,11,0,0,SSSS
+C085,CA,Yume Minami,Super Rare,5361,251,0,0,252,189,76,Medium,25,154,55,0,12,0,0,SSSS
+C086,CV,Chise Asukagawa,Super Rare,7175,0,0,408,316,146,50,Medium,28,90,55,0,13,0,0,SSSS
+C087,BB,Mujina,Elite,7766,399,0,0,197,138,40,Heavy,30,62,55,0,14,0,0,SSSS
