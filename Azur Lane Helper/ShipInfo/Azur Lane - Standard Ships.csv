@@ -1,7 +1,7 @@
 ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,Faction
-001,DD,Universal Bullin,Elite,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal
-002,DD,Prototype Bullin Mk2,Super Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal
-003,DD,Specialized Bulin MKIII,Ultra Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal
+001,DD,Universal Bulin,Elite,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal
+002,DD,Prototype Bulin MKII,Super Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal
+003,DD,Specialized Bulin Custom MKIII,Ultra Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal
 004,DD,Dewey,Rare,1687,75,283,0,189,191,210,Light,44,194,72,187,8,0,0,Eagle Union
 005,DD,Cassin,Common,1777,77,287,0,171,193,210,Light,44,205,66,184,7,0,0,Eagle Union
 006,DD,Downes,Common,1777,77,287,0,171,193,210,Light,44,205,63,184,7,0,0,Eagle Union
@@ -485,7 +485,7 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 554,BB,Revenge,Elite,7643,404,0,0,217,152,30,Heavy,21,72,76,0,14,0,0,Royal Navy
 555,CV,Joffre,Super Rare,6458,0,0,419,314,129,52,Medium,33,99,28,0,13,0,0,Vichya Dominion
 556,DD,L'Indomptable,Super Rare,2229,143,274,0,164,210,285,Light,54,212,23,202,10,0,0,Vichya Dominion
-557,CL,Enterprise,Elite,3620,153,290,0,349,188,120,Light,33,175,83,143,10,0,0,Royal Navy
+557,CL,Enterprise (Royal Navy),Elite,3620,153,290,0,349,188,120,Light,33,175,83,143,10,0,0,Royal Navy
 558,SS,Leonardo da Vinci,Super Rare,1748,48,545,0,0,101,38,Light,18,197,57,0,7,232,2,Sardegna Empire
 558,CL,Giuseppe Garibaldi,Super Rare,4399,181,324,0,375,183,113,Light,35,182,88,99,11,0,0,Sardegna Empire
 560,CA,Bolzano,Elite,4515,235,161,0,230,172,72,Light,28,121,46,0,11,0,0,Sardegna Empire

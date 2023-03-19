@@ -165,9 +165,9 @@
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Universal Bullin",
-            "Prototype Bullin Mk2",
-            "Specialized Bulin MKIII",
+            "Universal Bulin",
+            "Prototype Bulin MKII",
+            "Specialized Bulin Custom MKIII",
             "Dewey",
             "Cassin",
             "Downes",
@@ -651,7 +651,7 @@
             "Revenge",
             "Joffre",
             "L\'Indomptable",
-            "Enterprise",
+            "Enterprise (Royal Navy)",
             "Leonardo da Vinci",
             "Giuseppe Garibaldi",
             "Bolzano",
@@ -698,7 +698,7 @@
             // 
             this.comboBox5.FormattingEnabled = true;
             this.comboBox5.Items.AddRange(new object[] {
-            "Neptune (Neptunia)",
+            "Neptune",
             "Noire",
             "Blanc",
             "Vert",
@@ -935,7 +935,7 @@
             this.Nation.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Nation.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Nation.Image = global::Azur_Lane_Helper.Properties.Resources.Universal;
-            this.Nation.Location = new System.Drawing.Point(391, 14);
+            this.Nation.Location = new System.Drawing.Point(324, 14);
             this.Nation.Name = "Nation";
             this.Nation.Size = new System.Drawing.Size(120, 120);
             this.Nation.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -976,16 +976,16 @@
             this.groupBox3.Controls.Add(this.pictureBox4);
             this.groupBox3.Controls.Add(this.pictureBox3);
             this.groupBox3.ForeColor = System.Drawing.SystemColors.Control;
-            this.groupBox3.Location = new System.Drawing.Point(-1, 316);
+            this.groupBox3.Location = new System.Drawing.Point(10, 316);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(505, 192);
+            this.groupBox3.Size = new System.Drawing.Size(434, 207);
             this.groupBox3.TabIndex = 5;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Ship Stats";
             // 
             // Ammo
             // 
-            this.Ammo.Location = new System.Drawing.Point(358, 144);
+            this.Ammo.Location = new System.Drawing.Point(345, 144);
             this.Ammo.Name = "Ammo";
             this.Ammo.Size = new System.Drawing.Size(45, 20);
             this.Ammo.TabIndex = 30;
@@ -994,7 +994,7 @@
             // 
             // Oxygen
             // 
-            this.Oxygen.Location = new System.Drawing.Point(307, 144);
+            this.Oxygen.Location = new System.Drawing.Point(294, 144);
             this.Oxygen.Name = "Oxygen";
             this.Oxygen.Size = new System.Drawing.Size(45, 20);
             this.Oxygen.TabIndex = 29;
@@ -1004,7 +1004,7 @@
             // pictureBox17
             // 
             this.pictureBox17.Image = global::Azur_Lane_Helper.Properties.Resources.Ammunition;
-            this.pictureBox17.Location = new System.Drawing.Point(358, 96);
+            this.pictureBox17.Location = new System.Drawing.Point(345, 96);
             this.pictureBox17.Name = "pictureBox17";
             this.pictureBox17.Size = new System.Drawing.Size(45, 45);
             this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1014,7 +1014,7 @@
             // pictureBox16
             // 
             this.pictureBox16.Image = global::Azur_Lane_Helper.Properties.Resources.Oxygen;
-            this.pictureBox16.Location = new System.Drawing.Point(307, 96);
+            this.pictureBox16.Location = new System.Drawing.Point(294, 96);
             this.pictureBox16.Name = "pictureBox16";
             this.pictureBox16.Size = new System.Drawing.Size(45, 45);
             this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1024,16 +1024,16 @@
             // label10
             // 
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(7, 164);
+            this.label10.Location = new System.Drawing.Point(11, 164);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(492, 21);
+            this.label10.Size = new System.Drawing.Size(402, 37);
             this.label10.TabIndex = 26;
             this.label10.Text = "Stats come from 100 Affinity and maxed-out enhancements at level 125.";
             this.label10.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // Oil
             // 
-            this.Oil.Location = new System.Drawing.Point(256, 144);
+            this.Oil.Location = new System.Drawing.Point(243, 144);
             this.Oil.Name = "Oil";
             this.Oil.Size = new System.Drawing.Size(45, 20);
             this.Oil.TabIndex = 25;
@@ -1042,7 +1042,7 @@
             // 
             // ASW
             // 
-            this.ASW.Location = new System.Drawing.Point(205, 144);
+            this.ASW.Location = new System.Drawing.Point(192, 144);
             this.ASW.Name = "ASW";
             this.ASW.Size = new System.Drawing.Size(45, 20);
             this.ASW.TabIndex = 24;
@@ -1051,7 +1051,7 @@
             // 
             // Luck
             // 
-            this.Luck.Location = new System.Drawing.Point(154, 144);
+            this.Luck.Location = new System.Drawing.Point(141, 144);
             this.Luck.Name = "Luck";
             this.Luck.Size = new System.Drawing.Size(45, 20);
             this.Luck.TabIndex = 23;
@@ -1060,7 +1060,7 @@
             // 
             // Accuracy
             // 
-            this.Accuracy.Location = new System.Drawing.Point(103, 144);
+            this.Accuracy.Location = new System.Drawing.Point(90, 144);
             this.Accuracy.Name = "Accuracy";
             this.Accuracy.Size = new System.Drawing.Size(45, 20);
             this.Accuracy.TabIndex = 22;
@@ -1070,7 +1070,7 @@
             // pictureBox14
             // 
             this.pictureBox14.Image = global::Azur_Lane_Helper.Properties.Resources.Consumption;
-            this.pictureBox14.Location = new System.Drawing.Point(256, 96);
+            this.pictureBox14.Location = new System.Drawing.Point(243, 96);
             this.pictureBox14.Name = "pictureBox14";
             this.pictureBox14.Size = new System.Drawing.Size(45, 45);
             this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1080,7 +1080,7 @@
             // pictureBox13
             // 
             this.pictureBox13.Image = global::Azur_Lane_Helper.Properties.Resources.ASW;
-            this.pictureBox13.Location = new System.Drawing.Point(205, 96);
+            this.pictureBox13.Location = new System.Drawing.Point(192, 96);
             this.pictureBox13.Name = "pictureBox13";
             this.pictureBox13.Size = new System.Drawing.Size(45, 45);
             this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1090,7 +1090,7 @@
             // pictureBox12
             // 
             this.pictureBox12.Image = global::Azur_Lane_Helper.Properties.Resources.Luck;
-            this.pictureBox12.Location = new System.Drawing.Point(154, 96);
+            this.pictureBox12.Location = new System.Drawing.Point(141, 96);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(45, 45);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1100,7 +1100,7 @@
             // pictureBox11
             // 
             this.pictureBox11.Image = global::Azur_Lane_Helper.Properties.Resources.Accuaracy;
-            this.pictureBox11.Location = new System.Drawing.Point(103, 96);
+            this.pictureBox11.Location = new System.Drawing.Point(90, 96);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(45, 45);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1109,7 +1109,7 @@
             // 
             // Speed
             // 
-            this.Speed.Location = new System.Drawing.Point(436, 73);
+            this.Speed.Location = new System.Drawing.Point(43, 141);
             this.Speed.Name = "Speed";
             this.Speed.Size = new System.Drawing.Size(41, 20);
             this.Speed.TabIndex = 17;
@@ -1118,8 +1118,8 @@
             // 
             // Armor
             // 
-            this.Armor.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Armor.Location = new System.Drawing.Point(381, 73);
+            this.Armor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Armor.Location = new System.Drawing.Point(368, 73);
             this.Armor.Name = "Armor";
             this.Armor.Size = new System.Drawing.Size(45, 20);
             this.Armor.TabIndex = 16;
@@ -1128,7 +1128,7 @@
             // 
             // Evasion
             // 
-            this.Evasion.Location = new System.Drawing.Point(330, 73);
+            this.Evasion.Location = new System.Drawing.Point(317, 73);
             this.Evasion.Name = "Evasion";
             this.Evasion.Size = new System.Drawing.Size(44, 20);
             this.Evasion.TabIndex = 15;
@@ -1137,7 +1137,7 @@
             // 
             // Reload
             // 
-            this.Reload.Location = new System.Drawing.Point(279, 73);
+            this.Reload.Location = new System.Drawing.Point(266, 73);
             this.Reload.Name = "Reload";
             this.Reload.Size = new System.Drawing.Size(45, 20);
             this.Reload.TabIndex = 14;
@@ -1146,7 +1146,7 @@
             // 
             // AntiAir
             // 
-            this.AntiAir.Location = new System.Drawing.Point(228, 73);
+            this.AntiAir.Location = new System.Drawing.Point(215, 73);
             this.AntiAir.Name = "AntiAir";
             this.AntiAir.Size = new System.Drawing.Size(45, 20);
             this.AntiAir.TabIndex = 13;
@@ -1155,7 +1155,7 @@
             // 
             // Aviation
             // 
-            this.Aviation.Location = new System.Drawing.Point(177, 73);
+            this.Aviation.Location = new System.Drawing.Point(164, 73);
             this.Aviation.Name = "Aviation";
             this.Aviation.Size = new System.Drawing.Size(45, 20);
             this.Aviation.TabIndex = 12;
@@ -1164,7 +1164,7 @@
             // 
             // Torpedo
             // 
-            this.Torpedo.Location = new System.Drawing.Point(126, 73);
+            this.Torpedo.Location = new System.Drawing.Point(113, 73);
             this.Torpedo.Name = "Torpedo";
             this.Torpedo.Size = new System.Drawing.Size(45, 20);
             this.Torpedo.TabIndex = 11;
@@ -1173,7 +1173,7 @@
             // 
             // Firepower
             // 
-            this.Firepower.Location = new System.Drawing.Point(75, 73);
+            this.Firepower.Location = new System.Drawing.Point(62, 73);
             this.Firepower.Name = "Firepower";
             this.Firepower.Size = new System.Drawing.Size(45, 20);
             this.Firepower.TabIndex = 10;
@@ -1182,7 +1182,7 @@
             // 
             // Health
             // 
-            this.Health.Location = new System.Drawing.Point(25, 73);
+            this.Health.Location = new System.Drawing.Point(12, 73);
             this.Health.Name = "Health";
             this.Health.Size = new System.Drawing.Size(44, 20);
             this.Health.TabIndex = 9;
@@ -1192,7 +1192,7 @@
             // label9
             // 
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(432, 25);
+            this.label9.Location = new System.Drawing.Point(39, 93);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(45, 45);
             this.label9.TabIndex = 8;
@@ -1202,7 +1202,7 @@
             // pictureBox10
             // 
             this.pictureBox10.Image = global::Azur_Lane_Helper.Properties.Resources.Armor;
-            this.pictureBox10.Location = new System.Drawing.Point(381, 25);
+            this.pictureBox10.Location = new System.Drawing.Point(368, 25);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(45, 45);
             this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1212,7 +1212,7 @@
             // pictureBox9
             // 
             this.pictureBox9.Image = global::Azur_Lane_Helper.Properties.Resources.Evasion;
-            this.pictureBox9.Location = new System.Drawing.Point(330, 25);
+            this.pictureBox9.Location = new System.Drawing.Point(317, 25);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(45, 45);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1222,7 +1222,7 @@
             // pictureBox8
             // 
             this.pictureBox8.Image = global::Azur_Lane_Helper.Properties.Resources.Reload;
-            this.pictureBox8.Location = new System.Drawing.Point(279, 25);
+            this.pictureBox8.Location = new System.Drawing.Point(266, 25);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(45, 45);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1232,7 +1232,7 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = global::Azur_Lane_Helper.Properties.Resources.AntiAir;
-            this.pictureBox7.Location = new System.Drawing.Point(228, 25);
+            this.pictureBox7.Location = new System.Drawing.Point(215, 25);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(45, 45);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1242,7 +1242,7 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = global::Azur_Lane_Helper.Properties.Resources.Aviation;
-            this.pictureBox6.Location = new System.Drawing.Point(177, 25);
+            this.pictureBox6.Location = new System.Drawing.Point(164, 25);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(45, 45);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1252,7 +1252,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = global::Azur_Lane_Helper.Properties.Resources.Torpedo;
-            this.pictureBox5.Location = new System.Drawing.Point(126, 25);
+            this.pictureBox5.Location = new System.Drawing.Point(113, 25);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(45, 45);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1262,7 +1262,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Azur_Lane_Helper.Properties.Resources.Firepower;
-            this.pictureBox4.Location = new System.Drawing.Point(75, 24);
+            this.pictureBox4.Location = new System.Drawing.Point(62, 24);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(45, 45);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1272,7 +1272,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::Azur_Lane_Helper.Properties.Resources.Health;
-            this.pictureBox3.Location = new System.Drawing.Point(24, 25);
+            this.pictureBox3.Location = new System.Drawing.Point(11, 25);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(45, 45);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1313,9 +1313,9 @@
             // ShipImage
             // 
             this.ShipImage.Image = global::Azur_Lane_Helper.Properties.Resources.None;
-            this.ShipImage.Location = new System.Drawing.Point(517, 14);
+            this.ShipImage.Location = new System.Drawing.Point(450, 14);
             this.ShipImage.Name = "ShipImage";
-            this.ShipImage.Size = new System.Drawing.Size(450, 607);
+            this.ShipImage.Size = new System.Drawing.Size(517, 607);
             this.ShipImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ShipImage.TabIndex = 1;
             this.ShipImage.TabStop = false;

@@ -533,19 +533,9 @@ namespace Azur_Lane_Helper.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Universal_Bullin {
+        internal static System.Drawing.Bitmap Vichya_Dominion {
             get {
-                object obj = ResourceManager.GetObject("Universal Bullin", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Vichiya_Domination {
-            get {
-                object obj = ResourceManager.GetObject("Vichiya Domination", resourceCulture);
+                object obj = ResourceManager.GetObject("Vichya_Dominion", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

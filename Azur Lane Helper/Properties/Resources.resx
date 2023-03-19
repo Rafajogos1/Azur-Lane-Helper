@@ -148,9 +148,6 @@
   <data name="Firepower" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icons\Stats\Firepower.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Vichiya Domination" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Icons\Nations\Vichiya Domination.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Accuaracy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icons\Stats\Accuaracy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -262,7 +259,7 @@
   <data name="Torpedo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icons\Stats\Torpedo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Universal Bullin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ships\Universal Bullin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Vichya_Dominion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icons\nations\vichya dominion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

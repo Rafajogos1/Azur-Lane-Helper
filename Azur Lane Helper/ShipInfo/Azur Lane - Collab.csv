@@ -1,5 +1,5 @@
 ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,Faction
-C001,CL,Neptune (Neptunia),Elite,3509,154,293,0,308,174,118,Light,31,162,73,123,10,0,0,Neptunia
+C001,CL,Neptune,Elite,3509,154,293,0,308,174,118,Light,31,162,73,123,10,0,0,Neptunia
 C002,CA,Noire,Elite,3916,240,202,0,181,167,68,Medium,27,131,83,0,11,0,0,Neptunia
 C003,DD,Blanc,Elite,1844,70,444,0,151,209,225,Light,45,212,71,202,9,0,0,Neptunia
 C004,CV,Vert,Elite,5652,0,0,382,294,112,49,Medium,28,91,93,0,12,0,0,Neptunia

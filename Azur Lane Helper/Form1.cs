@@ -49,7 +49,61 @@ namespace Azur_Lane_Helper
 
             public string GetImagePath(string name)
             {
-                string path_to_images = "Resources/Ships/";
+                name = name.Replace(" ", "_");
+                name = name.Replace("µ", "mu");
+                string path_to_images = "Resources/Ships/Standard Ships";
+                string filename = name + ".png";
+                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                if (File.Exists(image_path))
+                    return image_path;
+                else
+                    return null;
+            }
+
+            public string GetImagePathKai(string name)
+            {
+                name = name.Replace(" ", "_");
+                name = name.Replace("µ", "mu");
+                string path_to_images = "Resources/Ships/Retrofit Ships";
+                string filename = name + ".png";
+                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                if (File.Exists(image_path))
+                    return image_path;
+                else
+                    return null;
+            }
+
+            public string GetImagePathPR(string name)
+            {
+                name = name.Replace(" ", "_");
+                name = name.Replace("µ", "mu");
+                string path_to_images = "Resources/Ships/PR Ships";
+                string filename = name + ".png";
+                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                if (File.Exists(image_path))
+                    return image_path;
+                else
+                    return null;
+            }
+
+            public string GetImagePathMETA(string name)
+            {
+                name = name.Replace(" ", "_");
+                name = name.Replace("µ", "mu");
+                string path_to_images = "Resources/Ships/META Ships";
+                string filename = name + ".png";
+                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                if (File.Exists(image_path))
+                    return image_path;
+                else
+                    return null;
+            }
+
+            public string GetImagePathCollab(string name)
+            {
+                name = name.Replace(" ", "_");
+                name = name.Replace("µ", "mu");
+                string path_to_images = "Resources/Ships/Collab Ships";
                 string filename = name + ".png";
                 string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
                 if (File.Exists(image_path))
@@ -374,8 +428,8 @@ namespace Azur_Lane_Helper
                                     Type.Text = "Hull Type";
                                     break;
                             }
-                            if (File.Exists(ship.GetImagePath(shipName)))
-                                ShipImage.Image = Image.FromFile(ship.GetImagePath(shipName));
+                            if (File.Exists(ship.GetImagePathKai(shipName)))
+                                ShipImage.Image = Image.FromFile(ship.GetImagePathKai(shipName));
                             break;
                         }
                     }
@@ -527,8 +581,8 @@ namespace Azur_Lane_Helper
                                     Type.Text = "Hull Type";
                                     break;
                             }
-                            if (File.Exists(ship.GetImagePath(shipName)))
-                                ShipImage.Image = Image.FromFile(ship.GetImagePath(shipName));
+                            if (File.Exists(ship.GetImagePathPR(shipName)))
+                                ShipImage.Image = Image.FromFile(ship.GetImagePathPR(shipName));
                             break;
                         }
                     }
@@ -689,8 +743,8 @@ namespace Azur_Lane_Helper
                                     Type.Text = "Hull Type";
                                     break;
                             }
-                            if (File.Exists(ship.GetImagePath(shipName)))
-                                ShipImage.Image = Image.FromFile(ship.GetImagePath(shipName));
+                            if (File.Exists(ship.GetImagePathMETA(shipName)))
+                                ShipImage.Image = Image.FromFile(ship.GetImagePathMETA(shipName));
                             break;
                         }
                     }
@@ -851,8 +905,8 @@ namespace Azur_Lane_Helper
                                     Type.Text = "Hull Type";
                                     break;
                             }
-                            if (File.Exists(ship.GetImagePath(shipName)))
-                                ShipImage.Image = Image.FromFile(ship.GetImagePath(shipName));
+                            if (File.Exists(ship.GetImagePathCollab(shipName)))
+                                ShipImage.Image = Image.FromFile(ship.GetImagePathCollab(shipName));
                             break;
                         }
                     }
