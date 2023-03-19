@@ -53,7 +53,7 @@ namespace Azur_Lane_Helper
                 name = name.Replace("µ", "mu");
                 string path_to_images = "Resources/Ships/Standard Ships";
                 string filename = name + ".png";
-                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                string image_path = Path.Combine(Application.StartupPath, path_to_images, filename);
                 if (File.Exists(image_path))
                     return image_path;
                 else
@@ -66,7 +66,7 @@ namespace Azur_Lane_Helper
                 name = name.Replace("µ", "mu");
                 string path_to_images = "Resources/Ships/Retrofit Ships";
                 string filename = name + ".png";
-                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                string image_path = Path.Combine(Application.StartupPath, path_to_images, filename);
                 if (File.Exists(image_path))
                     return image_path;
                 else
@@ -79,7 +79,7 @@ namespace Azur_Lane_Helper
                 name = name.Replace("µ", "mu");
                 string path_to_images = "Resources/Ships/PR Ships";
                 string filename = name + ".png";
-                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                string image_path = Path.Combine(Application.StartupPath, path_to_images, filename);
                 if (File.Exists(image_path))
                     return image_path;
                 else
@@ -92,7 +92,7 @@ namespace Azur_Lane_Helper
                 name = name.Replace("µ", "mu");
                 string path_to_images = "Resources/Ships/META Ships";
                 string filename = name + ".png";
-                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                string image_path = Path.Combine(Application.StartupPath, path_to_images, filename);
                 if (File.Exists(image_path))
                     return image_path;
                 else
@@ -105,7 +105,7 @@ namespace Azur_Lane_Helper
                 name = name.Replace("µ", "mu");
                 string path_to_images = "Resources/Ships/Collab Ships";
                 string filename = name + ".png";
-                string image_path = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, path_to_images, filename);
+                string image_path = Path.Combine(Application.StartupPath, path_to_images, filename);
                 if (File.Exists(image_path))
                     return image_path;
                 else
@@ -122,7 +122,7 @@ namespace Azur_Lane_Helper
                 comboBox4.SelectedIndex = -1;
                 comboBox5.SelectedIndex = -1;
 
-                string filePath = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "ShipInfo", "Azur Lane - Standard Ships.csv");
+                string filePath = Path.Combine(Application.StartupPath, "ShipInfo", "Azur Lane - Standard Ships.csv");
                 string shipName = comboBox1.SelectedItem.ToString();
 
                 using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -176,8 +176,8 @@ namespace Azur_Lane_Helper
                             ship.AMMO = ammo;
 
                             ShipName.Text = ship.ship_name;
-                            Nation.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Nations/", ship.nation + ".png"));
-                            TypeIcon.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Ship Types/", ship.type + ".png"));
+                            Nation.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Nations/", ship.nation + ".png"));
+                            TypeIcon.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Ship Types/", ship.type + ".png"));
                             Rarity.Text = ship.rarity;
                             Health.Text = ship.HP.ToString();
                             Firepower.Text = ship.FP.ToString();
@@ -284,7 +284,7 @@ namespace Azur_Lane_Helper
                 comboBox4.SelectedIndex = -1;
                 comboBox5.SelectedIndex = -1;
 
-                string filePath = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "ShipInfo", "Azur Lane - Retrofit.csv");
+                string filePath = Path.Combine(Application.StartupPath, "ShipInfo", "Azur Lane - Retrofit.csv");
                 string shipName = comboBox2.SelectedItem.ToString();
 
                 using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -338,8 +338,8 @@ namespace Azur_Lane_Helper
                             ship.AMMO = ammo;
 
                             ShipName.Text = ship.ship_name;
-                            Nation.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Nations/", ship.nation + ".png"));
-                            TypeIcon.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Ship Types/", ship.type + ".png"));
+                            Nation.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Nations/", ship.nation + ".png"));
+                            TypeIcon.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Ship Types/", ship.type + ".png"));
                             Rarity.Text = ship.rarity;
                             Health.Text = ship.HP.ToString();
                             Firepower.Text = ship.FP.ToString();
@@ -446,7 +446,7 @@ namespace Azur_Lane_Helper
                 comboBox4.SelectedIndex = -1;
                 comboBox5.SelectedIndex = -1;
 
-                string filePath = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "ShipInfo", "Azur Lane - PR.csv");
+                string filePath = Path.Combine(Application.StartupPath, "ShipInfo", "Azur Lane - PR.csv");
                 string shipName = comboBox3.SelectedItem.ToString();
 
                 using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -500,8 +500,8 @@ namespace Azur_Lane_Helper
                             ship.AMMO = ammo;
 
                             ShipName.Text = ship.ship_name;
-                            Nation.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Nations/", ship.nation + ".png"));
-                            TypeIcon.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Ship Types/", ship.type + ".png"));
+                            Nation.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Nations/", ship.nation + ".png"));
+                            TypeIcon.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Ship Types/", ship.type + ".png"));
                             Rarity.Text = ship.rarity;
                             Health.Text = ship.HP.ToString();
                             Firepower.Text = ship.FP.ToString();
@@ -599,7 +599,7 @@ namespace Azur_Lane_Helper
                 comboBox3.SelectedIndex = -1;
                 comboBox5.SelectedIndex = -1;
 
-                string filePath = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "ShipInfo", "Azur Lane - META.csv");
+                string filePath = Path.Combine(Application.StartupPath, "ShipInfo", "Azur Lane - META.csv");
                 string shipName = comboBox4.SelectedItem.ToString();
 
                 using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -653,8 +653,8 @@ namespace Azur_Lane_Helper
                             ship.AMMO = ammo;
 
                             ShipName.Text = ship.ship_name;
-                            Nation.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Nations/", ship.nation + ".png"));
-                            TypeIcon.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Ship Types/", ship.type + ".png"));
+                            Nation.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Nations/", ship.nation + ".png"));
+                            TypeIcon.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Ship Types/", ship.type + ".png"));
                             Rarity.Text = ship.rarity;
                             Health.Text = ship.HP.ToString();
                             Firepower.Text = ship.FP.ToString();
@@ -761,7 +761,7 @@ namespace Azur_Lane_Helper
                 comboBox3.SelectedIndex = -1;
                 comboBox4.SelectedIndex = -1;
 
-                string filePath = Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "ShipInfo", "Azur Lane - Collab.csv");
+                string filePath = Path.Combine(Application.StartupPath, "ShipInfo", "Azur Lane - Collab.csv");
                 string shipName = comboBox5.SelectedItem.ToString();
 
                 using (TextFieldParser parser = new TextFieldParser(filePath))
@@ -815,8 +815,8 @@ namespace Azur_Lane_Helper
                             ship.AMMO = ammo;
 
                             ShipName.Text = ship.ship_name;
-                            Nation.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Nations/Misc.png"));
-                            TypeIcon.Image = Image.FromFile(Path.Combine(Directory.GetParent(Application.StartupPath).Parent.FullName, "Resources/Icons/Ship Types/", ship.type + ".png"));
+                            Nation.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Nations/Misc.png"));
+                            TypeIcon.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Resources/Icons/Ship Types/", ship.type + ".png"));
                             Rarity.Text = ship.rarity;
                             Health.Text = ship.HP.ToString();
                             Firepower.Text = ship.FP.ToString();
