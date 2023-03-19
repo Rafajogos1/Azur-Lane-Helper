@@ -13,9 +13,9 @@ using System.Xml.Linq;
 
 namespace Azur_Lane_Helper
 {
-    public partial class Form1 : Form
+    public partial class Ships : Form
     {
-        public Form1()
+        public Ships()
         {
             InitializeComponent();
         }
