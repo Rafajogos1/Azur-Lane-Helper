@@ -1323,9 +1323,9 @@
             // ShipName
             // 
             this.ShipName.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ShipName.Location = new System.Drawing.Point(17, 29);
+            this.ShipName.Location = new System.Drawing.Point(17, 14);
             this.ShipName.Name = "ShipName";
-            this.ShipName.Size = new System.Drawing.Size(364, 98);
+            this.ShipName.Size = new System.Drawing.Size(301, 120);
             this.ShipName.TabIndex = 0;
             this.ShipName.Text = "Ship Name";
             this.ShipName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
