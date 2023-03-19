@@ -446,7 +446,7 @@
             "Z18",
             "Le Triomphant",
             "Forbin",
-            "Emile Bertin",
+            "Émile Bertin",
             "Surcouf",
             "Le Mars",
             "Dunkerque",
