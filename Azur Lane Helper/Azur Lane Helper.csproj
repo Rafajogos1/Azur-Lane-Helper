@@ -342,7 +342,7 @@
     <Content Include="Resources\Ships\Standard Ships\Fu_Shun.png" />
     <Content Include="Resources\Ships\Standard Ships\Galatea.png" />
     <Content Include="Resources\Ships\Standard Ships\Gangut.png" />
-    <Content Include="Resources\Ships\Standard Ships\Gascogne.png" />
+    <Content Include="Resources\Ships\PR Ships\Gascogne.png" />
     <Content Include="Resources\Ships\Standard Ships\Giulio_Cesare.png" />
     <Content Include="Resources\Ships\Standard Ships\Giuseppe_Garibaldi.png" />
     <Content Include="Resources\Ships\Standard Ships\Glasgow.png" />
@@ -726,7 +726,7 @@
     <EmbeddedResource Include="Resources\Ships\PR Ships\Chkalov.png" />
     <EmbeddedResource Include="Resources\Ships\PR Ships\Drake.png" />
     <EmbeddedResource Include="Resources\Ships\PR Ships\Friedrich_der_Große.png" />
-    <EmbeddedResource Include="Resources\Ships\PR Ships\Gascogne_mu.png" />
+    <EmbeddedResource Include="Resources\Ships\Standard Ships\Gascogne_mu.png" />
     <EmbeddedResource Include="Resources\Ships\PR Ships\Georgia.png" />
     <EmbeddedResource Include="Resources\Ships\PR Ships\Hakuryuu.png" />
     <EmbeddedResource Include="Resources\Ships\PR Ships\Harbin.png" />
