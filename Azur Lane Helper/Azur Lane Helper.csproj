@@ -388,7 +388,7 @@
     <Content Include="Resources\Ships\Retrofit Ships\Z23_%28R%29.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\Ships\Retrofit Ships\Émile_Bertin_%28R%29.png">
+    <Content Include="Resources\Ships\Retrofit Ships\Emile_Bertin_%28R%29.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Ships\Standard Ships\Abercrombie.png">
