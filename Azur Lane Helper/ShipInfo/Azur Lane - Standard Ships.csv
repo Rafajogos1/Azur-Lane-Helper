@@ -513,3 +513,6 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 583,CVL,Argus,Elite,5156,0,0,290,261,178,63,Medium,20,83,81,109,11,0,0,Royal Navy
 584,CL,Scylla,Super Rare,4012,150,180,0,445,196,114,Light,32,177,56,171,11,0,0,Royal Navy
 585,DD,Hero,Elite,1501,88,379,0,171,199,270,Light,43,222,80,226,9,0,0,Royal Navy
+586,CA,Kursk,Super Rare,4886,282,215,0,128,190,68,Light,30,158,10,0,12,0,0,Northern Parliament
+587,CL,Voroshilov,Super Rare,4480,150,199,0,408,190,148,Light,36,162,52,156,11,0,0,Northern Parliament
+588,BB,Sevastopol,Elite,6645,328,0,0,213,151,34,Heavy,24,63,88,0,14,0,0,Northern Parliament

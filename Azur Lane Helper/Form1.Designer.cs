@@ -145,7 +145,8 @@
             "Fortune META",
             "Arizona META",
             "Sheffield META",
-            "Queen Elizabeth META"});
+            "Queen Elizabeth META",
+            "La Galissonniere META"});
             this.comboBox4.Location = new System.Drawing.Point(6, 207);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(198, 28);
@@ -678,7 +679,10 @@
             "Royal Oak",
             "Argus",
             "Scylla",
-            "Hero"});
+            "Hero",
+            "Kursk",
+            "Voroshilov",
+            "Sevastopol"});
             this.comboBox1.Location = new System.Drawing.Point(6, 45);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(198, 28);
