@@ -146,7 +146,10 @@
             "Arizona META",
             "Sheffield META",
             "Queen Elizabeth META",
-            "La Galissonniere META"});
+            "La Galissonniere META",
+            "U-556 META",
+            "Vestal META",
+            "Algerie META"});
             this.comboBox4.Location = new System.Drawing.Point(6, 207);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(198, 28);
@@ -682,7 +685,16 @@
             "Hero",
             "Kursk",
             "Voroshilov",
-            "Sevastopol"});
+            "Sevastopol",
+            "Little Formidable",
+            "Bismarck Zwei",
+            "Otto von Alvensleben",
+            "Regensburg",
+            "Jade",
+            "Taihou-chan",
+            "Attilio Regolo",
+            "Gorizia",
+            "Andrea Doria"});
             this.comboBox1.Location = new System.Drawing.Point(6, 45);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(198, 28);
@@ -728,6 +740,8 @@
             "Nagisa",
             "Nyotengu",
             "Monica",
+            "Luna",
+            "Tamaki",
             "Haruka Amami",
             "Chihaya Kisaragi",
             "Iori Minase",
@@ -805,6 +819,7 @@
             "York (R)",
             "Exeter (R)",
             "Warspite (R)",
+            "Nelson (R)",
             "Hermes (R)",
             "Unicorn (R)",
             "Ark Royal (R)",
@@ -1184,9 +1199,9 @@
             // 
             // Health
             // 
-            this.Health.Location = new System.Drawing.Point(12, 73);
+            this.Health.Location = new System.Drawing.Point(6, 73);
             this.Health.Name = "Health";
-            this.Health.Size = new System.Drawing.Size(44, 20);
+            this.Health.Size = new System.Drawing.Size(58, 20);
             this.Health.TabIndex = 9;
             this.Health.Text = "0";
             this.Health.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

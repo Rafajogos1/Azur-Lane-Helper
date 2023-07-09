@@ -516,3 +516,12 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 586,CA,Kursk,Super Rare,4886,282,215,0,128,190,68,Light,30,158,10,0,12,0,0,Northern Parliament
 587,CL,Voroshilov,Super Rare,4480,150,199,0,408,190,148,Light,36,162,52,156,11,0,0,Northern Parliament
 588,BB,Sevastopol,Elite,6645,328,0,0,213,151,34,Heavy,24,63,88,0,14,0,0,Northern Parliament
+589,CV,Little Formidable,Elite,6279,0,0,405,285,115,53,Heavy,30,93,75,0,12,0,0,Royal Navy
+590,BB,Bismarck Zwei,Ultra Rare,9429,448,0,0,279,170,28,Heavy,30,75,32,0,17,0,0,Iron Blood
+591,DD,Otto von Alvensleben,Super Rare,3058,128,354,0,164,220,194,Light,43,205,50,213,10,0,0,Iron Blood
+592,CL,Regensburg,Super Rare,3748,174,331,0,385,207,127,Light,36,168,46,149,11,0,0,Iron Blood
+593,CVL,Jade,Elite,5177,0,0,334,274,188,64,Medium,21,86,28,73,11,0,0,Iron Blood
+594,CV,Taihou-chan,Elite,7209,0,0,386,314,118,56,Heavy,33,84,36,0,12,0,0,Sakura Empire
+595,DD,Attilio Regolo,Super Rare,2871,128,339,0,164,210,219,Light,51,225,63,210,10,0,0,Sardegna Empire
+596,CA,Gorizia,Super Rare,5056,256,0,0,231,177,59,Medium,26,121,85,0,12,0,0,Sardegna Empire
+597,BB,Andrea Doria,Elite,7292,365,0,0,204,152,38,Heavy,26,86,77,0,14,0,0,Sardegna Empire

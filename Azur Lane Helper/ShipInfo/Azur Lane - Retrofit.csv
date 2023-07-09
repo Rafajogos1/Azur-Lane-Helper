@@ -34,6 +34,7 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 125,CA,York (R),Super Rare,4001,289,196,0,263,193,95,Medium,25,134,15,0,11,0,0,Royal Navy
 126,CA,Exeter (R),Super Rare,4031,269,196,0,263,193,75,Medium,25,154,49,0,11,0,0,Royal Navy
 131,BB,Warspite (R),Ultra Rare,8208,451,0,0,294,181,34,Heavy,24,103,90,99,15,0,0,Royal Navy
+132,BB,Nelson (R),Super Rare,8076,442,0,0,253,171,34,Heavy,23,97,66,0,14,0,0,Royal Navy
 140,CVL,Hermes (R),Rare,4467,0,0,304,303,195,69,Medium,25,83,41,105,9,0,0,Royal Navy
 142,CVL,Unicorn (R),Super Rare,5674,0,0,356,344,188,68,Medium,24,91,78,110,11,0,0,Royal Navy
 144,CV,Ark Royal (R),Super Rare,6461,0,0,440,364,134,55,Medium,31,109,87,0,12,0,0,Royal Navy
